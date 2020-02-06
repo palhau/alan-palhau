@@ -1,3 +1,3 @@
 # Portfolio
 
-This ismy portfolio repository please open the live version for a better interaction.
+This is my portfolio repository, please open the live version for a better interaction.
