@@ -20,7 +20,7 @@ function compilaSass() {
 gulp.task('sass', compilaSass);
 
 function gulpJS() {
-  return gulp.src('js/**/*.js')
+  return gulp.src('js/*.js')
     .pipe(concat('main.js'))
     .pipe(babel({
       presets: ['@babel/env']
